@@ -10,7 +10,7 @@ O repositório está organizado por pastas, onde cada uma representa um módulo 
 
 ### 🧩 [01. Variáveis e Tipos](./01-variaveis-e-tipos)
 Exercícios focados em declaração de variáveis, tipos primitivos, operadores aritméticos e conversão de tipos (casting).
-* **Desafios incluídos:** Conversão de temperatura, cadastro de livros, conversor de moedas, par ou ímpar, entre outros.
+* **Desafios incluídos:** Conversão de temperatura, Conversor de moedas, Classificação por categoria, par ou ímpar, entre outros.
 
 ### 🔀 [02. Condicionais (if-else)](./02-condicionais-if-else)
 Práticas envolvendo estruturas de decisão, operadores lógicos (`&&`, `||`, `!`) e controle de fluxo do sistema.
