@@ -1,4 +1,4 @@
-# ☕ Java Playground - Exercícios de Fixação
+# ☕ Java Exercises - Exercícios de Fixação
 
 Este repositório foi criado para centralizar todos os desafios práticos e exercícios de fixação desenvolvidos durante os cursos de prática em Java. O objetivo principal é consolidar a sintaxe da linguagem, algoritmos de lógica e as boas práticas de desenvolvimento desde a base.
 
